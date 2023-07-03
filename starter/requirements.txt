@@ -1,4 +1,4 @@
-pip==13.1.2
+pip==23.1.2
 python==3.7.6
 numpy
 pandas
