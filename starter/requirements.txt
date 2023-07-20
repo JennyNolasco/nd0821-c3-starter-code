@@ -1,3 +1,4 @@
+pip==23.2
 python==3.7.6
 numpy
 pandas
